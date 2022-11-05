@@ -1,0 +1,2 @@
+# Tag for read/write filesystem type
+attribute rw_fs_type;
